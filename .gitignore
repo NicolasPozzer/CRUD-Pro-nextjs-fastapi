@@ -1,0 +1,16 @@
+
+# dependencies
+frontend/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+frontend/.next/
+/out/
+
+# production
+frontend/build
+
